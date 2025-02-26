@@ -43,3 +43,7 @@ The dataset used in this project includes sales transactions with details such a
 - **Live data updates** for real-time analytics.
 - **AI-driven sales forecasting** to predict future trends.
 - **Drill-through reports** for deeper insights into customer behavior.
+
+## Dashboard
+<img width="1216" alt="Final Project Image" src="https://github.com/user-attachments/assets/67b1ded2-287a-4391-86ca-d04a35c15a28" />
+
