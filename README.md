@@ -13,7 +13,8 @@ This project presents an interactive US Sales Dashboard built using Power BI. It
 🛠️ Tech Stack
   Power BI for data visualization and dashboard creation.
   Microsoft Bing Maps for geospatial data representation.
-  📂 Dataset
+  
+📂 Dataset
   The dataset used in this project includes sales transactions with details such as order date, region, category, sub-category, sales amount, profit, quantity, and shipping mode.
 
 📈 Insights
